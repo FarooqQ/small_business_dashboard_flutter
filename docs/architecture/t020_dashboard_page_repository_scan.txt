@@ -1,0 +1,6 @@
+﻿
+lib\features\dashboard\pages\dashboard_page.dart:5:import '../repositories/dashboard_repository.dart';
+lib\features\dashboard\pages\dashboard_page.dart:16:  late final DashboardRepository _repository;
+lib\features\dashboard\pages\dashboard_page.dart:23:    _repository = DashboardRepository.mock();
+
+

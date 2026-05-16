@@ -1,0 +1,10 @@
+﻿
+Name                                                Length LastWriteTime       
+----                                                ------ -------------       
+r001_r1_release_1_0_0_preparation.md                  5818 5/16/2026 2:47:41 AM
+r002_r1_mg3_release_metadata.md                       3383 5/16/2026 3:11:12 AM
+r003_r1_release_notes_draft.md                        5336 5/16/2026 3:30:13 AM
+r004_r1_public_readme_portfolio_summary.md            5207 5/16/2026 3:35:11 AM
+r006_r1_final_release_1_0_0_documentation_report.md   8356 5/16/2026 4:01:40 AM
+
+

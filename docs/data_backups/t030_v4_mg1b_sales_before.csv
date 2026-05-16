@@ -1,0 +1,7 @@
+﻿date,product_name,category,quantity,unit_price,unit_cost,branch_name
+2026-05-01,Rice 5kg,Food,20,9.5,7.0,Main Branch
+2026-05-01,Cooking Oil,Food,8,6.0,4.2,Main Branch
+2026-05-02,Detergent,Cleaning,10,4.5,3.1,Main Branch
+2026-05-02,Shampoo,Personal Care,6,5.0,3.8,Main Branch
+2026-05-03,Rice 5kg,Food,9,9.5,7.0,Second Branch
+2026-05-03,Toothpaste,Personal Care,14,2.5,1.5,Second Branch

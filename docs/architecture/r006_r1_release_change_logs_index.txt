@@ -1,0 +1,12 @@
+﻿
+Name                                               Length LastWriteTime       
+----                                               ------ -------------       
+r001_r1_release_1_0_0_preparation.md                 1162 5/16/2026 2:48:17 AM
+r002_r1_mg1_public_version_label_alignment.md        1085 5/16/2026 3:02:30 AM
+r002_r1_mg2_delivery_release_metadata_alignment.md   1649 5/16/2026 3:10:07 AM
+r002_r1_mg3_release_metadata.md                      1090 5/16/2026 3:16:34 AM
+r003_r1_release_notes_draft.md                       1189 5/16/2026 3:33:34 AM
+r004_r1_public_readme_portfolio_summary.md           1213 5/16/2026 3:37:55 AM
+r005_r1_release_package_quality_review.md            1622 5/16/2026 3:55:36 AM
+
+

@@ -1,0 +1,17 @@
+﻿
+Name                                           Length LastWriteTime        
+----                                           ------ -------------        
+t065_v8_freelance_delivery_package_planning.md    985 5/15/2026 8:19:58 PM 
+t066_v8_delivery_docs_folder_foundation.md       1331 5/15/2026 8:27:26 PM 
+t067_v8_user_guide.md                             944 5/15/2026 8:33:41 PM 
+t068_v8_installation_guide.md                    1054 5/16/2026 12:22:30 AM
+t069_v8_client_discovery_form.md                 1401 5/16/2026 12:40:05 AM
+t070_v8_kpi_definition_sheet.md                  1073 5/16/2026 12:46:51 AM
+t071_v8_data_preparation_template.md             1148 5/16/2026 12:53:17 AM
+t072_v8_delivery_checklist.md                    1253 5/16/2026 1:04:27 AM 
+t073_v8_support_agreement_template.md            1191 5/16/2026 1:18:25 AM 
+t074_v8_freelance_package_index.md               1184 5/16/2026 1:40:45 AM 
+t075_v8_delivery_package_quality_review.md       1262 5/16/2026 1:46:59 AM 
+t076_v8_final_milestone_report.md               13151 5/16/2026 1:50:48 AM 
+
+

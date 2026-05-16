@@ -1,0 +1,9 @@
+﻿
+lib\features\dashboard\pages\dashboard_page.dart:107:    final config = defaultClientConfig;
+lib\features\dashboard\pages\dashboard_page.dart:119:                    config.businessName,
+lib\features\dashboard\pages\dashboard_page.dart:127:                    '${config.dashboardVersionLabel} · ${config.dashboardSubtitle}',
+lib\features\dashboard\pages\dashboard_page.dart:137:              label: config.topProductLabel,
+lib\features\dashboard\pages\dashboard_page.dart:198:    final config = defaultClientConfig;
+lib\features\dashboard\pages\dashboard_page.dart:201:      return '${config.currencySymbol}${value.toStringAsFixed(2)}';
+
+

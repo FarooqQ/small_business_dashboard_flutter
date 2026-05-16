@@ -1,0 +1,10 @@
+﻿
+lib\features\dashboard\repositories\dashboard_repository.dart:22:  factory DashboardRepository.defaultRepository() {
+lib\features\dashboard\repositories\dashboard_repository.dart:23:    final config = defaultClientConfig;
+lib\features\dashboard\repositories\dashboard_repository.dart:25:    return DashboardRepository.csv(
+lib\features\dashboard\repositories\dashboard_repository.dart:26:      salesAssetPath: config.salesCsvAssetPath,
+lib\features\dashboard\repositories\dashboard_repository.dart:27:      inventoryAssetPath: config.inventoryCsvAssetPath,
+lib\features\dashboard\repositories\dashboard_repository.dart:31:  factory DashboardRepository.csv({
+lib\features\dashboard\repositories\dashboard_repository.dart:36:      dataSource: CsvDashboardDataSource(
+
+

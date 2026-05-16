@@ -1,0 +1,52 @@
+﻿
+lib\features\dashboard\reports\dashboard_report_generator.dart:6:class DashboardReportGenerator {
+lib\features\dashboard\reports\dashboard_report_generator.dart:7:  const DashboardReportGenerator();
+lib\features\dashboard\reports\dashboard_report_generator.dart:9:  DashboardReport generateDashboardSummaryReport(
+lib\features\dashboard\reports\dashboard_report_generator.dart:10:    DashboardSummary summary, {
+lib\features\dashboard\reports\dashboard_report_generator.dart:13:    final reportType = DashboardReportType.dashboardSummary;
+lib\features\dashboard\reports\dashboard_report_generator.dart:15:    final config = defaultClientConfig;
+lib\features\dashboard\reports\dashboard_report_generator.dart:21:    final content = StringBuffer()
+lib\features\dashboard\reports\dashboard_report_generator.dart:22:      ..writeln(reportType.title)
+lib\features\dashboard\reports\dashboard_report_generator.dart:23:      ..writeln('Business: ${config.businessName}')
+lib\features\dashboard\reports\dashboard_report_generator.dart:24:      ..writeln('Generated At: ${generatedAt.toIso8601String()}')
+lib\features\dashboard\reports\dashboard_report_generator.dart:25:      ..writeln('')
+lib\features\dashboard\reports\dashboard_report_generator.dart:26:      ..writeln('Summary')
+lib\features\dashboard\reports\dashboard_report_generator.dart:27:      ..writeln('Total Sales: ${money(summary.totalSales)}')
+lib\features\dashboard\reports\dashboard_report_generator.dart:28:      ..writeln('Total Profit: ${money(summary.totalProfit)}')
+lib\features\dashboard\reports\dashboard_report_generator.dart:29:      ..writeln('Orders: ${summary.totalOrders}')
+lib\features\dashboard\reports\dashboard_report_generator.dart:30:      ..writeln('Average Order: ${money(summary.averageOrderValue)}')
+lib\features\dashboard\reports\dashboard_report_generator.dart:31:      ..writeln('Low Stock Items: ${summary.lowStockCount}')
+lib\features\dashboard\reports\dashboard_report_generator.dart:32:      ..writeln('Top Product: ${summary.topProductName}');
+lib\features\dashboard\reports\dashboard_report_generator.dart:34:    return DashboardReport(
+lib\features\dashboard\reports\dashboard_report_generator.dart:43:  DashboardReport generateLowStockReport(
+lib\features\dashboard\reports\dashboard_report_generator.dart:44:    DashboardSummary summary, {
+lib\features\dashboard\reports\dashboard_report_generator.dart:47:    final reportType = DashboardReportType.lowStock;
+lib\features\dashboard\reports\dashboard_report_generator.dart:49:    final config = defaultClientConfig;
+lib\features\dashboard\reports\dashboard_report_generator.dart:51:    final content = StringBuffer()
+lib\features\dashboard\reports\dashboard_report_generator.dart:52:      ..writeln(reportType.title)
+lib\features\dashboard\reports\dashboard_report_generator.dart:53:      ..writeln('Business: ${config.businessName}')
+lib\features\dashboard\reports\dashboard_report_generator.dart:54:      ..writeln('Generated At: ${generatedAt.toIso8601String()}')
+lib\features\dashboard\reports\dashboard_report_generator.dart:55:      ..writeln('')
+lib\features\dashboard\reports\dashboard_report_generator.dart:56:      ..writeln('Low Stock Items')
+lib\features\dashboard\reports\dashboard_report_generator.dart:57:      ..writeln('Total Low Stock Items: ${summary.lowStockCount}')
+lib\features\dashboard\reports\dashboard_report_generator.dart:58:      ..writeln('');
+lib\features\dashboard\reports\dashboard_report_generator.dart:61:      content.writeln('No low stock items found.');
+lib\features\dashboard\reports\dashboard_report_generator.dart:63:      content.writeln('Product Name,Category,Current Stock,Minimum Stock');
+lib\features\dashboard\reports\dashboard_report_generator.dart:66:        content.writeln(
+lib\features\dashboard\reports\dashboard_report_generator.dart:72:    return DashboardReport(
+lib\features\dashboard\reports\dashboard_report_generator.dart:81:  DashboardReport generateSalesByCategoryReport(
+lib\features\dashboard\reports\dashboard_report_generator.dart:82:    DashboardSummary summary, {
+lib\features\dashboard\reports\dashboard_report_generator.dart:85:    final reportType = DashboardReportType.salesByCategory;
+lib\features\dashboard\reports\dashboard_report_generator.dart:87:    final config = defaultClientConfig;
+lib\features\dashboard\reports\dashboard_report_generator.dart:93:    final content = StringBuffer()
+lib\features\dashboard\reports\dashboard_report_generator.dart:94:      ..writeln(reportType.title)
+lib\features\dashboard\reports\dashboard_report_generator.dart:95:      ..writeln('Business: ${config.businessName}')
+lib\features\dashboard\reports\dashboard_report_generator.dart:96:      ..writeln('Generated At: ${generatedAt.toIso8601String()}')
+lib\features\dashboard\reports\dashboard_report_generator.dart:97:      ..writeln('')
+lib\features\dashboard\reports\dashboard_report_generator.dart:98:      ..writeln('Sales by Category')
+lib\features\dashboard\reports\dashboard_report_generator.dart:99:      ..writeln('Category,Total Sales');
+lib\features\dashboard\reports\dashboard_report_generator.dart:102:      content.writeln('No sales category data found.');
+lib\features\dashboard\reports\dashboard_report_generator.dart:105:        content.writeln('${item.category},${money(item.totalSales)}');
+lib\features\dashboard\reports\dashboard_report_generator.dart:109:    return DashboardReport(
+
+

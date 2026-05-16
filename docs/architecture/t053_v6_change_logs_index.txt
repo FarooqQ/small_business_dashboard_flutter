@@ -1,0 +1,17 @@
+﻿
+Name                                              Length LastWriteTime        
+----                                              ------ -------------        
+t043_v6_export_reports_planning.md                   894 5/14/2026 8:42:07 PM 
+t044_v6_report_types_definition.md                   868 5/14/2026 8:50:01 PM 
+t045_v6_report_model_foundation.md                   842 5/14/2026 9:26:32 PM 
+t046_v6_dashboard_summary_report_generator.md        910 5/14/2026 9:38:05 PM 
+t047_v6_low_stock_report_generator.md                991 5/14/2026 9:42:07 PM 
+t048_v6_sales_by_category_report_generator.md       1026 5/14/2026 9:48:56 PM 
+t049_v6_export_content_builder.md                    896 5/14/2026 10:02:17 PM
+t050_v6_export_ui_entry_point.md                    1098 5/14/2026 11:36:49 PM
+t050_v6_mg1a_report_panel_typography_alignment.md   1006 5/14/2026 11:35:53 PM
+t051_v6_runtime_export_review.md                    1557 5/14/2026 11:42:21 PM
+t052_v6_export_architecture_coupling_scan.md        1842 5/14/2026 11:59:42 PM
+t053_v6_final_milestone_report.md                  12917 5/15/2026 12:02:08 AM
+
+

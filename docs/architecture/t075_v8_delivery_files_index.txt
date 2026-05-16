@@ -1,0 +1,13 @@
+﻿
+Name                                Length LastWriteTime        
+----                                ------ -------------        
+client_discovery_form.md              6239 5/16/2026 12:24:04 AM
+data_preparation_template.md          7106 5/16/2026 12:48:58 AM
+delivery_checklist.md                 8277 5/16/2026 12:56:58 AM
+freelance_delivery_package_index.md   7267 5/16/2026 1:20:20 AM 
+installation_guide.md                 7011 5/16/2026 12:11:41 AM
+kpi_definition_sheet.md               7111 5/16/2026 12:41:40 AM
+support_agreement_template.md         6354 5/16/2026 1:06:08 AM 
+user_guide.md                         6546 5/15/2026 8:30:21 PM 
+
+

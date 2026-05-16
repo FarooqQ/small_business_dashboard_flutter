@@ -1,0 +1,17 @@
+﻿
+Name                                               Length LastWriteTime       
+----                                               ------ -------------       
+t033_v5_client_configuration_scope_lock.md            814 5/14/2026 4:39:06 PM
+t034_v5_client_config_model.md                        860 5/14/2026 4:54:50 PM
+t035_v5_default_client_config.md                      883 5/14/2026 5:15:47 PM
+t036_v5_header_configuration_integration.md           951 5/14/2026 5:32:41 PM
+t037_v5_currency_configuration_integration.md         957 5/14/2026 6:02:32 PM
+t038_v5_csv_asset_path_configuration.md              1023 5/14/2026 6:16:29 PM
+t039_v5_mg1_kpi_visual_balance_card.md                807 5/14/2026 6:45:20 PM
+t039_v5_mg3_kpi_equal_width_alignment.md             1009 5/14/2026 7:08:11 PM
+t039_v5_repository_default_configuration_review.md   1122 5/14/2026 6:22:55 PM
+t040_v5_client_configuration_coupling_scan.md        1815 5/14/2026 7:22:28 PM
+t041_v5_runtime_review.md                            1764 5/14/2026 7:32:07 PM
+t042_v5_final_milestone_report.md                   12830 5/14/2026 7:40:28 PM
+
+

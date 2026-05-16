@@ -1,0 +1,28 @@
+﻿
+Name                                   Length LastWriteTime       
+----                                   ------ -------------       
+t000_initial_project_creation.md          378 5/9/2026 4:12:53 PM 
+t001_folder_structure.md                  379 5/9/2026 4:14:44 PM 
+t002_rescue_fixes.md                      433 5/9/2026 4:47:32 PM 
+t003_dashboard_models.md                  468 5/9/2026 4:51:15 PM 
+t004_mock_business_data.md                564 5/9/2026 5:12:23 PM 
+t005_dashboard_calculator.md              677 5/9/2026 5:24:12 PM 
+t006_kpi_card.md                          536 5/9/2026 5:27:26 PM 
+t007_mini_bar_chart.md                    645 5/9/2026 5:31:11 PM 
+t008_dashboard_page_integration.md        840 5/9/2026 5:38:39 PM 
+t009_runtime_visual_gate.md              1024 5/9/2026 5:51:42 PM 
+t010_v2_mg1_header_polish.md              676 5/9/2026 6:20:52 PM 
+t010_v2_mg2_page_container.md             717 5/9/2026 6:53:52 PM 
+t010_v2_mg3_responsive_layout.md          875 5/9/2026 7:18:20 PM 
+t010_v2_mg4_low_stock_panel.md            808 5/9/2026 7:26:56 PM 
+t010_v2_mg5_final_visual_review.md       1622 5/9/2026 7:28:07 PM 
+t011_v2_mg1_kpi_card_structure.md         694 5/9/2026 7:44:42 PM 
+t011_v2_mg2_kpi_card_accent.md            730 5/10/2026 5:23:41 AM
+t012_v2_mg1_chart_compact_structure.md    806 5/10/2026 5:49:26 AM
+t012_v2_mg2_chart_grid_refinement.md      819 5/10/2026 5:55:04 AM
+t012_v2_mg3_chart_runtime_review.md      1468 5/10/2026 5:59:30 AM
+t012_v2_mg5_chart_inner_canvas_box.md     968 5/10/2026 7:07:07 AM
+t013_v2_final_milestone_report.md        7677 5/10/2026 7:17:33 AM
+v1_project_report.md                     1674 5/9/2026 6:02:03 PM 
+
+

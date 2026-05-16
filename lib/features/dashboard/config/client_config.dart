@@ -1,0 +1,19 @@
+class ClientConfig {
+  const ClientConfig({
+    required this.businessName,
+    required this.dashboardVersionLabel,
+    required this.dashboardSubtitle,
+    required this.currencySymbol,
+    required this.topProductLabel,
+    required this.salesCsvAssetPath,
+    required this.inventoryCsvAssetPath,
+  });
+
+  final String businessName;
+  final String dashboardVersionLabel;
+  final String dashboardSubtitle;
+  final String currencySymbol;
+  final String topProductLabel;
+  final String salesCsvAssetPath;
+  final String inventoryCsvAssetPath;
+}

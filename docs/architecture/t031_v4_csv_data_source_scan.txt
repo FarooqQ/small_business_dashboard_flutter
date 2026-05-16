@@ -1,0 +1,33 @@
+﻿
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:11:    this.salesAssetPath = 'assets/data/sales.csv',
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:12:    this.inventoryAssetPath = 'assets/data/inventory.csv',
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:19:  Future<DashboardDataset> loadDashboardDataset() async {
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:20:    final salesCsvContent = await rootBundle.loadString(salesAssetPath);
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:21:    final inventoryCsvContent = await 
+rootBundle.loadString(inventoryAssetPath);
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:26:    return DashboardDataset(sales: sales, inventory: inventory);
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:29:  List<SaleRecord> _parseSales(String csvContent) {
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:30:    final table = CsvParsingHelpers.parseTable(csvContent);
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:32:    CsvParsingHelpers.requireColumns(
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:47:      return SaleRecord(
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:48:        date: CsvParsingHelpers.requiredDate(row, 'date'),
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:49:        productName: CsvParsingHelpers.requiredString(row, 
+'product_name'),
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:50:        category: CsvParsingHelpers.requiredString(row, 'category'),
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:51:        quantity: CsvParsingHelpers.requiredInt(row, 'quantity'),
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:52:        unitPrice: CsvParsingHelpers.requiredDouble(row, 'unit_price'),
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:53:        unitCost: CsvParsingHelpers.requiredDouble(row, 'unit_cost'),
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:54:        branchName: CsvParsingHelpers.requiredString(row, 'branch_name'),
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:59:  List<InventoryItem> _parseInventory(String csvContent) {
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:60:    final table = CsvParsingHelpers.parseTable(csvContent);
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:62:    CsvParsingHelpers.requireColumns(
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:74:      return InventoryItem(
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:75:        productName: CsvParsingHelpers.requiredString(row, 
+'product_name'),
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:76:        category: CsvParsingHelpers.requiredString(row, 'category'),
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:77:        currentStock: CsvParsingHelpers.requiredInt(row, 
+'current_stock'),
+lib\features\dashboard\data_sources\csv_dashboard_data_source.dart:78:        minimumStock: CsvParsingHelpers.requiredInt(row, 
+'minimum_stock'),
+
+

@@ -1,0 +1,18 @@
+﻿
+lib\features\dashboard\reports\export_content_builder.dart:3:class ExportContent {
+lib\features\dashboard\reports\export_content_builder.dart:4:  const ExportContent({required this.fileName, required this.content});
+lib\features\dashboard\reports\export_content_builder.dart:6:  final String fileName;
+lib\features\dashboard\reports\export_content_builder.dart:7:  final String content;
+lib\features\dashboard\reports\export_content_builder.dart:10:class ExportContentBuilder {
+lib\features\dashboard\reports\export_content_builder.dart:11:  const ExportContentBuilder();
+lib\features\dashboard\reports\export_content_builder.dart:13:  ExportContent buildTextExport(DashboardReport report) {
+lib\features\dashboard\reports\export_content_builder.dart:16:    return ExportContent(
+lib\features\dashboard\reports\export_content_builder.dart:17:      fileName: '${report.fileName}_$timestamp.txt',
+lib\features\dashboard\reports\export_content_builder.dart:18:      content: report.content,
+lib\features\dashboard\reports\export_content_builder.dart:22:  ExportContent buildCsvExport(DashboardReport report) {
+lib\features\dashboard\reports\export_content_builder.dart:25:    return ExportContent(
+lib\features\dashboard\reports\export_content_builder.dart:26:      fileName: '${report.fileName}_$timestamp.csv',
+lib\features\dashboard\reports\export_content_builder.dart:27:      content: report.content,
+lib\features\dashboard\reports\export_content_builder.dart:31:  String _formatTimestamp(DateTime value) {
+
+

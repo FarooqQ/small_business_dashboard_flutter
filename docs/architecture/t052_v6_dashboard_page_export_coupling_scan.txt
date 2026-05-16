@@ -1,0 +1,5 @@
+﻿
+lib\features\dashboard\pages\dashboard_page.dart:281:    const generator = DashboardReportGenerator();
+lib\features\dashboard\pages\dashboard_page.dart:282:    const exportBuilder = ExportContentBuilder();
+
+

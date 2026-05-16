@@ -1,0 +1,17 @@
+﻿T052-V6 Forbidden Export Packages Scan
+
+Status: PASS
+
+No forbidden export packages or direct file-writing APIs were found.
+
+Scanned path:
+lib\features\dashboard\reports\*.dart
+
+Checked patterns:
+- dart:io
+- File(
+- writeAsString
+- pdf
+- excel
+- path_provider
+- file_picker

@@ -1,0 +1,10 @@
+﻿
+lib\features\dashboard\repositories\dashboard_repository.dart:8:    required DashboardDataSource dataSource,
+lib\features\dashboard\repositories\dashboard_repository.dart:9:    required DashboardCalculator calculator,
+lib\features\dashboard\repositories\dashboard_repository.dart:15:      dataSource: const MockDashboardDataSource(),
+lib\features\dashboard\repositories\dashboard_repository.dart:16:      calculator: DashboardCalculator(),
+lib\features\dashboard\repositories\dashboard_repository.dart:20:  final DashboardDataSource _dataSource;
+lib\features\dashboard\repositories\dashboard_repository.dart:21:  final DashboardCalculator _calculator;
+lib\features\dashboard\repositories\dashboard_repository.dart:23:  Future<DashboardSummary> loadDashboardSummary() async {
+
+

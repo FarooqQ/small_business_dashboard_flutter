@@ -1,0 +1,17 @@
+﻿
+Name                                        Length LastWriteTime        
+----                                        ------ -------------        
+t014_v3_scope_lock.md                          731 5/12/2026 12:04:05 AM
+t015_v3_dashboard_dataset.md                   673 5/12/2026 12:30:52 AM
+t016_v3_dashboard_data_source_contract.md      856 5/12/2026 12:54:55 AM
+t017_v3_mock_dashboard_data_source.md          854 5/12/2026 1:05:05 AM 
+t018_v3_dashboard_repository.md                951 5/12/2026 8:34:37 PM 
+t019_v3_mg1_repository_factory.md              886 5/12/2026 8:40:16 PM 
+t019_v3_mg2_dashboard_summary_model.md        1073 5/12/2026 8:50:21 PM 
+t019_v3_mg3_dashboard_page_futurebuilder.md   1041 5/12/2026 9:35:28 PM 
+t020_v3_coupling_scan_architecture_gate.md     790 5/12/2026 9:39:42 PM 
+t021_v3_runtime_review.md                     1338 5/12/2026 9:43:54 PM 
+t022_v3_final_milestone_report.md            11014 5/12/2026 9:48:34 PM 
+t022_v3_mg0_version_label_correction.md        758 5/12/2026 9:59:46 PM 
+
+

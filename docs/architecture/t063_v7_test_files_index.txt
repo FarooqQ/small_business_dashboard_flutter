@@ -1,0 +1,11 @@
+﻿
+FullName                                                                                                                          
+--------                                                                                                                          
+D:\My_Experience\FreelanceLabs\small_business_dashboard_flutter\test\widget_test.dart                                             
+D:\My_Experience\FreelanceLabs\small_business_dashboard_flutter\test\features\dashboard\config\default_client_config_test.dart    
+D:\My_Experience\FreelanceLabs\small_business_dashboard_flutter\test\features\dashboard\data_sources\csv_parsing_helpers_test.dart
+D:\My_Experience\FreelanceLabs\small_business_dashboard_flutter\test\features\dashboard\reports\dashboard_report_generator_test...
+D:\My_Experience\FreelanceLabs\small_business_dashboard_flutter\test\features\dashboard\reports\export_content_builder_test.dart  
+D:\My_Experience\FreelanceLabs\small_business_dashboard_flutter\test\features\dashboard\services\dashboard_calculator_test.dart   
+
+

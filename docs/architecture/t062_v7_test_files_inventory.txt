@@ -1,0 +1,43 @@
+﻿
+
+    Directory: D:\My_Experience\FreelanceLabs\small_business_dashboard_flutter\test
+
+
+Mode                 LastWriteTime         Length Name                                                                            
+----                 -------------         ------ ----                                                                            
+-a----         5/15/2026   4:23 PM            718 widget_test.dart                                                                
+
+
+    Directory: D:\My_Experience\FreelanceLabs\small_business_dashboard_flutter\test\features\dashboard\config
+
+
+Mode                 LastWriteTime         Length Name                                                                            
+----                 -------------         ------ ----                                                                            
+-a----         5/15/2026   5:51 PM           1298 default_client_config_test.dart                                                 
+
+
+    Directory: D:\My_Experience\FreelanceLabs\small_business_dashboard_flutter\test\features\dashboard\data_sources
+
+
+Mode                 LastWriteTime         Length Name                                                                            
+----                 -------------         ------ ----                                                                            
+-a----         5/15/2026   5:16 PM           3817 csv_parsing_helpers_test.dart                                                   
+
+
+    Directory: D:\My_Experience\FreelanceLabs\small_business_dashboard_flutter\test\features\dashboard\reports
+
+
+Mode                 LastWriteTime         Length Name                                                                            
+----                 -------------         ------ ----                                                                            
+-a----         5/15/2026   5:28 PM           4153 dashboard_report_generator_test.dart                                            
+-a----         5/15/2026   5:20 PM           1971 export_content_builder_test.dart                                                
+
+
+    Directory: D:\My_Experience\FreelanceLabs\small_business_dashboard_flutter\test\features\dashboard\services
+
+
+Mode                 LastWriteTime         Length Name                                                                            
+----                 -------------         ------ ----                                                                            
+-a----         5/15/2026   5:05 PM           2929 dashboard_calculator_test.dart                                                  
+
+

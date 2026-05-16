@@ -1,0 +1,85 @@
+﻿
+docs\release\r001_r1_release_1_0_0_preparation.md:1:# R001-R1 — Release Version 1.0.0 Preparation
+docs\release\r001_r1_release_1_0_0_preparation.md:10:Release 1.0.0
+docs\release\r001_r1_release_1_0_0_preparation.md:16:Release Version 1.0.0 Preparation
+docs\release\r001_r1_release_1_0_0_preparation.md:28:Release 1.0.0 represents the first real release that can be shown to a client, included 
+in a portfolio, or prepared for public presentation.
+docs\release\r001_r1_release_1_0_0_preparation.md:50:- V1 — Working Prototype
+docs\release\r001_r1_release_1_0_0_preparation.md:57:- V8 — Freelance Delivery Package
+docs\release\r001_r1_release_1_0_0_preparation.md:67:After completing V8, the project becomes ready for:
+docs\release\r001_r1_release_1_0_0_preparation.md:69:Release 1.0.0
+docs\release\r001_r1_release_1_0_0_preparation.md:90:V1 to V8
+docs\release\r001_r1_release_1_0_0_preparation.md:94:Small Business Dashboard Starter — Release 1.0.0
+docs\release\r001_r1_release_1_0_0_preparation.md:98:V8 is not the eighth market release.
+docs\release\r001_r1_release_1_0_0_preparation.md:100:V8 is the final internal development milestone before Release 1.0.0.
+docs\release\r001_r1_release_1_0_0_preparation.md:108:Small Business Dashboard Starter — Release 1.0.0
+docs\release\r001_r1_release_1_0_0_preparation.md:114:- Small Business Dashboard Starter — Client Delivery Release 1.0.0
+docs\release\r001_r1_release_1_0_0_preparation.md:118:Small Business Dashboard Starter — Release 1.0.0
+docs\release\r001_r1_release_1_0_0_preparation.md:126:### Release 1.0.0
+docs\release\r001_r1_release_1_0_0_preparation.md:153:## 8. What Release 1.0.0 Includes
+docs\release\r001_r1_release_1_0_0_preparation.md:155:Release 1.0.0 includes the completed work from internal Versions 1 to 8:
+docs\release\r001_r1_release_1_0_0_preparation.md:168:## 9. What Release 1.0.0 Does Not Include
+docs\release\r001_r1_release_1_0_0_preparation.md:170:Release 1.0.0 does not include:
+docs\release\r001_r1_release_1_0_0_preparation.md:191:The Release 1.0.0 preparation track may include:
+docs\release\r001_r1_release_1_0_0_preparation.md:193:- R001-R1 — Release Version 1.0.0 Preparation
+docs\release\r001_r1_release_1_0_0_preparation.md:198:- R006-R1 — Final Release 1.0.0 Documentation Report
+docs\release\r001_r1_release_1_0_0_preparation.md:200:These stages are separate from the internal V1 to V8 development cycle.
+docs\release\r001_r1_release_1_0_0_preparation.md:206:During Release 1.0.0 preparation:
+docs\release\r001_r1_release_1_0_0_preparation.md:208:- Do not rename internal V1 to V8 history.
+docs\release\r001_r1_release_1_0_0_preparation.md:229:It is the final internal development milestone before Release Version 1.0.0.
+docs\release\r001_r1_release_1_0_0_preparation.md:238:- Release 1.0.0 preparation document exists.
+docs\release\r001_r1_release_1_0_0_preparation.md:249:R001-R1 prepares the project for Release Version 1.0.0.
+docs\release\r002_r1_mg3_release_metadata.md:7:Small Business Dashboard Starter — Release 1.0.0
+docs\release\r002_r1_mg3_release_metadata.md:13:1.0.0
+docs\release\r002_r1_mg3_release_metadata.md:25:This document defines the official release metadata for Small Business Dashboard Starter — 
+Release 1.0.0.
+docs\release\r002_r1_mg3_release_metadata.md:35:Small Business Dashboard Starter — Release 1.0.0
+docs\release\r002_r1_mg3_release_metadata.md:39:Release 1.0.0
+docs\release\r002_r1_mg3_release_metadata.md:55:- V1 — Working Prototype
+docs\release\r002_r1_mg3_release_metadata.md:62:- V8 — Freelance Delivery Package
+docs\release\r002_r1_mg3_release_metadata.md:70:Release 1.0.0 is the first official public/freelance release of the project.
+docs\release\r002_r1_mg3_release_metadata.md:82:## 5. Release 1.0.0 Includes
+docs\release\r002_r1_mg3_release_metadata.md:84:Release 1.0.0 includes:
+docs\release\r002_r1_mg3_release_metadata.md:103:## 6. Release 1.0.0 Does Not Include
+docs\release\r002_r1_mg3_release_metadata.md:105:Release 1.0.0 does not include:
+docs\release\r002_r1_mg3_release_metadata.md:126:### 1.0.0
+docs\release\r002_r1_mg3_release_metadata.md:156:Release 1.0.0 must pass:
+docs\release\r002_r1_mg3_release_metadata.md:173:Small Business Dashboard Starter — Release 1.0.0
+docs\release\r002_r1_mg3_release_metadata.md:175:The internal V1 to V8 history may be preserved in engineering documentation, but should not 
+be used as the public version number.
+docs\release\r003_r1_release_notes_draft.md:7:Small Business Dashboard Starter — Release 1.0.0
+docs\release\r003_r1_release_notes_draft.md:13:1.0.0
+docs\release\r003_r1_release_notes_draft.md:25:Small Business Dashboard Starter — Release 1.0.0 is the first official public/freelance release 
+of the project.
+docs\release\r003_r1_release_notes_draft.md:35:Versions V1 to V8 represent the internal engineering evolution of the project.
+docs\release\r003_r1_release_notes_draft.md:39:Release 1.0.0 is the first official release prepared for client presentation, freelance 
+delivery, portfolio usage, or future public documentation.
+docs\release\r003_r1_release_notes_draft.md:43:V8 is the final internal development milestone.
+docs\release\r003_r1_release_notes_draft.md:45:Release 1.0.0 is the first real public/freelance release.
+docs\release\r003_r1_release_notes_draft.md:51:Release 1.0.0 includes:
+docs\release\r003_r1_release_notes_draft.md:97:Release 1.0.0 includes report preview support for:
+docs\release\r003_r1_release_notes_draft.md:124:Release 1.0.0 includes automated unit tests for:
+docs\release\r003_r1_release_notes_draft.md:149:Release 1.0.0 includes the following delivery documents:
+docs\release\r003_r1_release_notes_draft.md:174:- Release 1.0.0 Preparation
+docs\release\r003_r1_release_notes_draft.md:182:Release 1.0.0 does not include:
+docs\release\r003_r1_release_notes_draft.md:220:Release 1.0.0 is suitable for:
+docs\release\r003_r1_release_notes_draft.md:255:Small Business Dashboard Starter — Release 1.0.0 is ready to be described as the first 
+official public/freelance release candidate.
+docs\release\r003_r1_release_notes_draft.md:257:This release preserves the internal V1 to V8 engineering history while presenting a clean 
+public release identity to clients and portfolio viewers.
+docs\release\r004_r1_public_readme_portfolio_summary.md:1:# Small Business Dashboard Starter — Release 1.0.0
+docs\release\r004_r1_public_readme_portfolio_summary.md:6:1.0.0
+docs\release\r004_r1_public_readme_portfolio_summary.md:43:Release 1.0.0 includes:
+docs\release\r004_r1_public_readme_portfolio_summary.md:108:Release 1.0.0 includes report preview support for:
+docs\release\r004_r1_public_readme_portfolio_summary.md:116:Real file saving, PDF export, and Excel export are not included in Release 1.0.0.
+docs\release\r004_r1_public_readme_portfolio_summary.md:138:Release 1.0.0 includes automated tests for:
+docs\release\r004_r1_public_readme_portfolio_summary.md:180:Release 1.0.0 does not include:
+docs\release\r004_r1_public_readme_portfolio_summary.md:217:Versions V1 to V8 were internal engineering milestones used to build the project 
+step by step.
+docs\release\r004_r1_public_readme_portfolio_summary.md:219:Release 1.0.0 is the first official public/freelance release.
+docs\release\r004_r1_public_readme_portfolio_summary.md:221:This means V8 is not the eighth public product release.
+docs\release\r004_r1_public_readme_portfolio_summary.md:223:It is the final internal development milestone before Release 1.0.0.
+docs\release\r004_r1_public_readme_portfolio_summary.md:229:Small Business Dashboard Starter — Release 1.0.0 is a Flutter desktop dashboard 
+starter designed for small businesses.
+
+

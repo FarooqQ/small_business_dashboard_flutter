@@ -1,0 +1,15 @@
+﻿
+Name                                             Length LastWriteTime       
+----                                             ------ -------------       
+t054_v7_mg0b_replace_legacy_widget_test.md         1184 5/15/2026 4:34:02 PM
+t054_v7_unit_testing_quality_gates_planning.md     1070 5/15/2026 4:09:04 PM
+t055_v7_test_folder_foundation.md                  1393 5/15/2026 4:36:53 PM
+t056_v7_dashboard_calculator_unit_tests.md         1041 5/15/2026 5:15:25 PM
+t057_v7_csv_parsing_helpers_unit_tests.md          1126 5/15/2026 5:18:04 PM
+t058_v7_export_content_builder_unit_tests.md        946 5/15/2026 5:24:28 PM
+t059_v7_dashboard_report_generator_unit_tests.md   1161 5/15/2026 5:47:40 PM
+t060_v7_client_config_unit_tests.md                 994 5/15/2026 5:53:11 PM
+t061_v7_quality_gate_commands_documentation.md     1020 5/15/2026 5:55:14 PM
+t062_v7_test_architecture_coupling_scan.md         1376 5/15/2026 6:12:25 PM
+
+
